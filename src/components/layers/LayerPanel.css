@@ -1,0 +1,22 @@
+.LayerPanel-overlay {
+    position: fixed;
+    top: 70px;
+    right: 20px;
+    background: rgba(0, 0, 0, 0.2);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LayerPanel-content {
+  padding: 25px;
+  position: relative;
+}
+
+.LayerPanel-title {
+    font-size: medium;
+    font-weight: 700;
+}
