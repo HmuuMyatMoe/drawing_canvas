@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Instructions
+
+1. Download the project zip folder from GitHub.
+2. Unzip folder in desired directory.
+3. Open project folder in Visual Studios Code or your desire IDE.
+4. In a new terminal, navigate to the project directory.
+5. Run `npm install` to install dependencies.
+6. Run `npm start` to start the app.
+7. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
